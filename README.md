@@ -28,6 +28,7 @@
 chmod +x hello-go-linux-amd64
 ./hello-go-linux-amd64
 ```
+<img width="1082" height="668" alt="image" src="https://github.com/user-attachments/assets/146ad5e5-a179-478a-871e-1a301481de84" />
 
 ### Вывод программы:
 ```text
